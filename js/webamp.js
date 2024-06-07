@@ -1,6 +1,7 @@
 // $("#button").click(function () {
 
 const Webamp = window.Webamp;
+
 const webamp = new Webamp({
     availableSkins: [
         {
@@ -20,5 +21,7 @@ const webamp = new Webamp({
     initialSkin: {
         url: "/assets/webamp/ducks_in_a_row.wsz",
     },
-}).renderWhenReady(document.getElementById("app"));
+});
+
+webamp.renderWhenReady(document.getElementById("winamp-container"));
 // });

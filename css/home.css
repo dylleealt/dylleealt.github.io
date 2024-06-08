@@ -1,11 +1,27 @@
-.intro {
+#intro {
+    display: block;
+    height: 156px;
+    width: 156px;
     margin-left: auto;
     margin-right: auto;
 }
 
-.spotify-widget {
-    width: 512px;
+#profile {
+    height: 100%;
+    width: 100%;
 }
 
-.repo {
+#spotify-widget {
+    display: inline-block;
+}
+
+#spotify-embed {
+    border-radius: 12px;
+    margin-left: 1.5vw;
+    width: 512px;
+    height: auto;
+}
+
+#repo {
+    display: inline-block;
 }

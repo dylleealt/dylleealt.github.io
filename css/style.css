@@ -72,9 +72,8 @@ a:hover {
     display: block;
     box-sizing: content-box;
     line-height: 1;
-    height: 17px;
-    width: 17px;
-    fill: var(--light-red);
+    height: 21px;
+    width: 21px;
 }
 
 .page-content {

@@ -13,10 +13,25 @@ projects
 
 wip
 
+-   webamp
+-   hades tier list
+-   celeste
+
+planned
+
+-   list of superlative trees (wikipedia)
+-   pokemon opening title screen
+
 ### todos
 
-import all music tracks using json
+easy
+
+-   import all music tracks using json (nvm does not seem like it works)
+-   different json per webamp skin
+
 add css styling (use sass?)
+
+-   add small, med, large navbar sizing
 
 ### imports
 

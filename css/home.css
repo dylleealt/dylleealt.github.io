@@ -4,16 +4,19 @@
 #profile {
     height: 156px;
     width: 156px;
-    margin-left: auto;
-    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
 }
 
 #spotify-widget {
+    display: block;
+    box-sizing: content-box;
     border-radius: 12px;
-    margin-left: 1.5vw;
-    width: auto;
+    margin-left: 0.5vw;
     height: 352;
+    width: 700;
 }
 
 #repo {
+    margin-left: 0.5vw;
 }

@@ -54,7 +54,7 @@ a:hover {
     justify-content: flex-end;
     margin-left: auto;
     margin-right: 0;
-    align-items: center;
+    align-items: baseline;
 }
 
 /* todo: fix nav-btn text and icon vertical alignment */

@@ -12,16 +12,11 @@
 }
 
 #spotify-widget {
-    display: inline-block;
-}
-
-#spotify-embed {
     border-radius: 12px;
     margin-left: 1.5vw;
-    width: 512px;
-    height: auto;
+    width: 100%;
+    height: 352;
 }
 
 #repo {
-    display: inline-block;
 }
